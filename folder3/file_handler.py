@@ -84,3 +84,4 @@ if __name__ == "__main__":
         txt = extract_text(sample)
         print(f"{sample}: {len(txt)} chars extracted")
 
+
